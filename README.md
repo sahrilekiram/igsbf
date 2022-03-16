@@ -1,4 +1,5 @@
-#BAHAN TOOL
+# BAHAN TOOL
+
 ➤ pkg install python
 
 ➤ pkg install python2
@@ -19,4 +20,4 @@
 
 ➤ python Instagram.py
 
-#ANJAUU
+# ANJAUU
