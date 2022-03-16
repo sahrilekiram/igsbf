@@ -16,7 +16,7 @@
 
 ➤ git clone https://github.com/ShellyScot/igsbf
 
-➤ cd igbsf
+➤ cd igsbf
 
 ➤ python Instagram.py
 
