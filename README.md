@@ -12,14 +12,19 @@
 
 ➤ pip install stdiomask
 
+➤ pip install rich
+
 ➤ pip install bs4
 
 ➤ git clone https://github.com/ShellyScot/igsbf
 
 ➤ cd igsbf
 
-➤ python Instagram.py
+➤ python run.py
 
-# LISEN KEY TRIAL 2 HARI
+# LISEN KEY 
 
-IFKWD-PCISG-WKBCB-QBNXQ
+➤ CHAT ADMIN UNTUK MENDAPATKAN LISEN
+
+➤ wa.me/6285322904155
+
